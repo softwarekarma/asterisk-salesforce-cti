@@ -8,3 +8,4 @@ Existing Projects:
   * http://code.google.com/p/asterisk-cti/
   * http://dev.account.fr/asterisk-soap
   * http://www.voip-info.org/wiki/view/Aynchronous+Javascript+Asterisk+Manager+(AJAM)
+  * http://www.voip-info.org/wiki/view/AstManProxy
